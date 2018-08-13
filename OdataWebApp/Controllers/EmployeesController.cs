@@ -24,7 +24,7 @@ namespace OdataWebApp.Controllers
             new Employee { ID = 3, Name = "Bert", PostCode = "4321" },
             new Employee { ID = 4, Name = "Andrew", PostCode = "9999" },
             new Employee { ID = 5, Name = "Quentin", PostCode = "7445" },
-            new Employee { ID = 5, Name = "Crispin", PostCode = "0113" },
+            new Employee { ID = 6, Name = "Crispin", PostCode = "0113" },
         };
 
         // Enable filtering in WebApiConfig !

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdataWebApp", "OdataWebApp\OdataWebApp.csproj", "{47474319-8334-4D98-BE9F-DEE1342670D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataTests", "ODataTests\ODataTests.csproj", "{8C30E010-B63E-4C00-A3F5-364F7181F69C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47474319-8334-4D98-BE9F-DEE1342670D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47474319-8334-4D98-BE9F-DEE1342670D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47474319-8334-4D98-BE9F-DEE1342670D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C30E010-B63E-4C00-A3F5-364F7181F69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C30E010-B63E-4C00-A3F5-364F7181F69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C30E010-B63E-4C00-A3F5-364F7181F69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C30E010-B63E-4C00-A3F5-364F7181F69C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
